@@ -1,3 +1,7 @@
+# Plot for ggplot custom theme cheatsheet
+# Author: Daniel Dauber
+# Last updated: 2022-02-26
+
 # Create a plot
 library(tidyverse)
 library(ragg)
